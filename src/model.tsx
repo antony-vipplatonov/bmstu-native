@@ -22,15 +22,15 @@ export const mockShips: Ships =
 	"ships": [
 		{
 			"id": 5,
-			"name": "vsdf",
-			"weapon": "23",
-			"armoring": "23",
-			"year": 1234,
-			"displacement": 67.0,
-			"length": 123.0,
-			"speed": 23.0,
+			"name": "Дзуйкаку",
+			"weapon": "Зенитное вооружение корабля: 16 x 127-мм",
+			"armoring": "бронирование: до 21,5 см",
+			"year": 1941,
+			"displacement": 30000.0,
+			"length": 237.0,
+			"speed": 34.0,
 			"status": "действует",
-			"image_src": ""
+			"image_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Japanese.aircraft.carrier.zuikaku.jpg/1200px-Japanese.aircraft.carrier.zuikaku.jpg"
 		},
 		{
 			"id": 3,
