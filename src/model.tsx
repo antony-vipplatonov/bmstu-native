@@ -42,7 +42,7 @@ export const mockShips: Ships =
 			"length": 203.76,
 			"speed": 35.5,
 			"status": "действует",
-			"image_src": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Heavy_cruiser_Nachi.jpg"
+			"image_src": "https://war-book.ru/wp-content/uploads/2019/03/00032632.jpg"
 		},
 		{
 			"id": 2,
@@ -54,7 +54,7 @@ export const mockShips: Ships =
 			"length": 185.4,
 			"speed": 21.0,
 			"status": "действует",
-			"image_src": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:USS_Pennsy_BB-38_1934.jpg"
+			"image_src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/USS_Pennsy_BB-38_1934.jpg"
 		}
 	],
 	"draftID": 0

@@ -1,15 +1,22 @@
 .imgShip {
-    max-width: 40%;
-    max-height: 30rem;
+    max-width: 70%;
+    max-height: 20rem;
 }
 .pShip {
     font-size: 1.5em;
+	color: #ffd700;
 }
 .sTable {
 	border-collapse: collapse;
 	border: 2px solid black;
 }
 .sTd{
-	border: 2px solid black;
+	border: 2px solid blue;
 	text-align: center;
+	color: #ffd700;
+	font-size: 1.5em;
+}
+.h2Ship{
+	height: 3rem; 
+	color: #ffd700;
 }
