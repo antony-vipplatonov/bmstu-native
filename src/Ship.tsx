@@ -29,7 +29,7 @@ function ShipPage() {
         {ship.name}
         </Breadcrumb.Item>
     </Breadcrumb>
-    <h2 class="h2Ship">{ship.name}</h2>
+    <h2 className="h2Ship">{ship.name}</h2>
 <br/><hr/><br/>
 <img className="imgShip" src =  {ship.image_src || 'https://dostavka.phali-hinkali.ru/murino/api2/images/placeholder_1000x.jpg'} />
 <br/>
