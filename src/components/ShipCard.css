@@ -3,8 +3,7 @@
     width: 20rem;
     box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.1);
     display: inline-block;
-    flex-direction: column; /* Размещаем элементы в колонку */
-    border-radius: 1rem;
+    flex-direction: column;
     border: solid black 1px;
     margin-bottom: 0.5em;
     top: 0;
@@ -30,4 +29,12 @@
   .gText{
     color: #ffd700;
     font-size: 18px;
+}
+.gMain{
+  font-size: 2rem;
+  text-align: center;
+}
+.link{
+  color: inherit;
+  text-decoration: inherit;
 }

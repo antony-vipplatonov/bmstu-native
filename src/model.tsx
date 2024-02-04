@@ -30,7 +30,7 @@ export const mockShips: Ships =
 			"length": 237.0,
 			"speed": 34.0,
 			"status": "действует",
-			"image_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Japanese.aircraft.carrier.zuikaku.jpg/1200px-Japanese.aircraft.carrier.zuikaku.jpg"
+			"image_src": ""
 		},
 		{
 			"id": 3,

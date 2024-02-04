@@ -3,6 +3,7 @@ import './Ships.css'
 import {Breadcrumb} from 'react-bootstrap'
 import InputField from './components/InputField.tsx'
 import ShipCard from './components/ShipCard.tsx'
+import { Link } from 'react-router-dom';
 
 import { Ship, searchInShipList } from './modules/search-in-ship-list.ts'
 
@@ -31,7 +32,7 @@ useEffect(() => {
   return (
     <>
     <Breadcrumb>
-      <Breadcrumb.Item href="#home">Главная</Breadcrumb.Item>
+      <Breadcrumb.Item><Link to="/bmstu-frontend/">Главная</Link></Breadcrumb.Item>
       <Breadcrumb.Item active>Архив</Breadcrumb.Item>
     </Breadcrumb>
       <InputField

@@ -11,8 +11,8 @@
 	border: 2px solid black;
 }
 .sTd{
-	border: 2px solid blue;
-	text-align: center;
+	border: 2px solid lightblue;
+	text-align: left;
 	color: #ffd700;
 	font-size: 1.4em;
 	padding: 2px 2px 2px 2px;

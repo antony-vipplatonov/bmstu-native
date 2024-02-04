@@ -1,9 +1,11 @@
 .navbar {
     margin-bottom: 1rem;
     background-color:#00197C;
-    border-radius: 1rem;
     height: 6.5rem;
 }
 .gText{
     color: #ffd700;
+}
+.gTitle{
+    font-size: 2rem;
 }
